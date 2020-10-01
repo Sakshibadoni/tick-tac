@@ -1,10 +1,13 @@
 # tick-tac
 A simple ticket service.
-# Tic-Tac-Toe
 
-A simple Tic-Tac-Toe game with options to play agianst another person or an unbeatable AI. The AI was written with a Minimax algorithm with Aplha-Beta Pruning.
 
-A simple Tic-Tac-Toe game with options to play agianst another person or an unbeatable AI. The AI was written with a Minimax algorithm with Alpha-Beta Pruning.
+* Just Enjoy Out Service .
+* Learn How to run it.
+*Explore More With the code And Java .
+
+
+
 
 ## Getting Started
 
